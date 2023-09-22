@@ -19,3 +19,8 @@ Here are some ideas to get you started:
 
 - [Project 1](https://github.com/yourusername/project1)
 - [Project 2](https://github.com/yourusername/project2)
+
+- | Header 1 | Header 2 |
+|----------|----------|
+| Row 1, Col 1 | Row 1, Col 2 |
+| Row 2, Col 1 | Row 2, Col 2 |
